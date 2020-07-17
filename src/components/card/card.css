@@ -1,0 +1,11 @@
+.ant-btn-primary {
+  background-color: black !important;
+  border-radius: 10px !important;
+  border: black !important;
+  color: white;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

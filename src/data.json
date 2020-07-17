@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "title": "Game 1",
+    "platform": "Mobile",
+    "studio": "Studio Name",
+    "description": "lorem loremloremloremloremloremlorem",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png",
+    "trailer": "https://www.youtube.com/watch?v=edYCtaNueQY"
+  },
+  {
+    "id": 1,
+    "title": "Game 1",
+    "platform": "Mobile",
+    "studio": "Studio Name",
+    "type": "action aventure",
+    "description": "lorem lorem lorem lorem lorem lorem lorem",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png",
+    "trailer": "https://www.youtube.com/watch?v=edYCtaNueQY"
+  },
+  {
+    "id": 2,
+    "title": "Game 2",
+    "platform": "Mobile",
+    "studio": "Studio Name",
+    "type": "action aventure",
+    "description": "lorem lorem lorem lorem lorem lorem lorem",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png",
+    "trailer": "https://www.youtube.com/watch?v=edYCtaNueQY"
+  },
+  {
+    "id": 3,
+    "title": "Game 3",
+    "studio": "Studio Name",
+    "platform": "Mobile",
+    "type": "action aventure",
+    "description": "lorem lorem lorem lorem lorem lorem lorem",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png",
+    "trailer": "https://www.youtube.com/watch?v=edYCtaNueQY"
+  },
+  {
+    "id": 4,
+    "title": "Game 4",
+    "studio": "Studio Name",
+    "platform": "Mobile",
+    "type": "action aventure",
+    "description": "lorem loremloremloremloremloremlorem",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png",
+    "trailer": "https://www.youtube.com/watch?v=edYCtaNueQY"
+  }
+]
